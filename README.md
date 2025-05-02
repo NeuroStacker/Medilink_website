@@ -20,7 +20,7 @@ MediLink is an innovative precision medicine platform that uses AI to personaliz
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/neurostacker/medilink.git
+   git clone https://github.com/NeuroStacker/Medilink_website
    cd medilink
    ```
 
